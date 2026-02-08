@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a full-stack developer who enjoys building scalable web applications and turning ideas into real, usable products. I like working across the stack, from designing clean, responsive UIs to building reliable backend systems and APIs.<br><br>I primarily work with JavaScript & TypeScript, and I’m comfortable building modern web apps using:<br><br>Frontend: React, Next.js, Tailwind CSS<br><br>Backend: Node.js, Express, Firebase, Appwrite<br><br>Databases: MongoDB, PostgreSQL<br><br>Tools & DevOps: Git, GitHub, REST APIs<br><br>Other: Authentication, AI integrations, real-time features<br><br>I enjoy learning by building and reading
+I’m a full-stack developer who enjoys building scalable web applications and turning ideas into real, usable products. I like working across the stack, from designing clean, responsive UIs to building reliable backend systems and APIs.<br><br>I primarily work with JavaScript & TypeScript, and I’m comfortable building modern web apps using:<br><br>Frontend: React, Next.js, Tailwind CSS<br><br>Backend: Node.js, Express, Firebase, Appwrite<br><br>Databases: MongoDB, PostgreSQL<br><br>Tools & DevOps: Git, GitHub, REST APIs<br><br>Other: Authentication, AI integrations, real-time features<br><br>I enjoy learning by building and reading
 
 
 ## 🌐 Socials:
